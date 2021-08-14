@@ -6,3 +6,4 @@ lib64
 pyvenv.cfg
 share/
 *.pyc
+sandfox.egg-info/
